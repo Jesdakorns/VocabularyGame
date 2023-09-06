@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+##DEMO
+![การจับภาพเว็บ_6-9-2023_165136_vocabulary-game vercel app](https://github.com/Jesdakorns/VocabularyGame/assets/52199797/cc04e49a-8b6c-46dc-b3ae-e559180aec09)
+
+
 
 ## Getting Started
 
