@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Kodchasan:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -15,8 +16,15 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
+* {
+  font-family: "Kodchasan", sans-serif !important;
+}
+body {
+  background: url("/bg.png") left;
+}
 
-body,
-html {
-  background: #e0f3ff  !important;
+@media only screen and (max-width: 600px) {
+  body {
+    background-size: contain;
+  }
 }
