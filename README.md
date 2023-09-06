@@ -1,6 +1,7 @@
 ## DEMO
 [Web Demo](https://vocabulary-game.vercel.app/)
 
+![การจับภาพเว็บ_6-9-2023_165358_vocabulary-game vercel app](https://github.com/Jesdakorns/VocabularyGame/assets/52199797/ab6e9447-cbb4-487e-b548-615d8778a35e)
 ![การจับภาพเว็บ_6-9-2023_165136_vocabulary-game vercel app](https://github.com/Jesdakorns/VocabularyGame/assets/52199797/cc04e49a-8b6c-46dc-b3ae-e559180aec09)
 
 
